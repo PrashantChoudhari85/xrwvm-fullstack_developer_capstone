@@ -31,3 +31,4 @@ mileage: {
 });
 
 module.exports = mongoose.model('cars', cars);
+/*jshint esversion: 8 */

@@ -41,3 +41,4 @@ const dealerships = new Schema({
 });
 
 module.exports = mongoose.model('dealerships', dealerships);
+/*jshint esversion: 8 */

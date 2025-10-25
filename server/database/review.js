@@ -42,3 +42,4 @@ const reviews = new Schema({
 });
 
 module.exports = mongoose.model('reviews', reviews);
+/*jshint esversion: 8 */
